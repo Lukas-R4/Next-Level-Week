@@ -1,4 +1,4 @@
-## RocketSeat-
+## Proffy - Sistema de professores
 
 Projeto desenvolvido durante a semana "NLW#02" da RocketSeat, onde foi realizado o desenvolvimento: 
 
